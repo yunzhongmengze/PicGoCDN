@@ -1,1 +1,1 @@
-bash <(curl -Ls https://hub.yunzeofficial.cn/sh/frp.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/yunzeo/cdn/master/script/frp.sh)
